@@ -36,7 +36,7 @@ description: 政府の「オートロック共通化」と「置き配推進」�
 
 最も懸念されるのは、**荷物の盗難**です。特に、人目につきやすい場所やセキュリティが不十分な場所での置き配は、窃窃盗犯の格好のターゲットとなり得ます。高価な商品や個人情報が含まれる荷物が盗まれると、金銭的な損失だけでなく、精神的な被害も大きくなります。
 
-![盗難イメージ]([https://via.placeholder.com/800x450/cccccc/ffffff?text=Package+Theft+Risk](https://www.google.com/imgres?q=%E7%BD%AE%E3%81%8D%E9%85%8D%E3%80%80%E7%9B%97%E9%9B%A3&imgurl=https%3A%2F%2Fpreresearch.image.itmedia.co.jp%2Fnl%2Farticles%2F2011%2F16%2Fmiya_2011takuhaitaisaku01.jpg&imgrefurl=https%3A%2F%2Fnlab.itmedia.co.jp%2Fcont%2Farticles%2F3312407%2F&docid=FRb2d639bjUhqM&tbnid=PboCZNw43xk9_M&vet=12ahUKEwj3rsbgueKPAxWLslYBHbY1OYUQM3oECBsQAA..i&w=490&h=368&hcb=2&ved=2ahUKEwj3rsbgueKPAxWLslYBHbY1OYUQM3oECBsQAA))
+![盗難イメージ](https://via.placeholder.com/800x450/cccccc/ffffff?text=Package+Theft+Risk)
 *画像：置き配された荷物が盗難に遭うイメージ*
 
 ### 2. 誤配・破損のリスク
@@ -87,5 +87,3 @@ description: 政府の「オートロック共通化」と「置き配推進」�
     Wi-Fi接続で設置が簡単。スマホアプリからリアルタイム映像を確認でき、双方向音声通話も可能。
 * **[おすすめ防犯カメラC](https://example.com/camera-c)**
     クラウドストレージ対応で、録画データを安全に保存。バッテリー駆動で配線不要、屋外設置も可能。
-
-**変化する社会のニーズに応え、あなたの住まいと大切なものを守るために、ぜひ最適な防犯カメラを見つけてください。**
